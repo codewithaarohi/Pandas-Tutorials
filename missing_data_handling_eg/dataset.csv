@@ -1,0 +1,6 @@
+OrderID,Product,Price,Quantity,Discount
+101,Shoes,2000,2,10
+102,Shirt,1500,,
+103,Shoes,,1,
+104,Watch,3000,3,5
+105,,2500,,0
